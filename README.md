@@ -56,7 +56,7 @@ I will use the lessons recalled for my future project during the WADS course.
 ### Useful resources
 
 - [YouTube](https://www.youtube.com) - YouTube video have acted as a guidance throughout doing the challenge. 
-- [w3schooks](https://www.w3schools.com) - This website has helped me if I came across functions I wasn't familiar with or needed recollection.
+- [w3schools](https://www.w3schools.com) - This website has helped me if I came across functions I wasn't familiar with or needed recollection.
 
 ## Author
 
