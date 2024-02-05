@@ -47,7 +47,7 @@ I first initiated the challenge by creating the HTML structure to define the con
 
 ### What I learned
 
-Through this challenge, I was able to recall the html, css, and js lesson that I have learned previously in the HCI course during semester 1. 
+Through this challenge, I was able to recall the HTML, CSS, and JS lessons that I had previously studied in the HCI course in semester 1.
 
 ### Continued development
 
