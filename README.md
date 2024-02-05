@@ -37,7 +37,7 @@ Users should be able to:
 
 ## My process
 
-I first initiated the challenge by creating the HTML structure to define the content and layout of the webpage. Then. I worked on the CSS stylesheets to match the visualization and layout of the webpage according to the requirements of the challenge. Lastly, I worked on the JS to manipulate the button functions and generate random advices, following the challenge's requirements.
+I first initiated the challenge by creating the HTML structure to define the content and layout of the webpage. Then, I worked on the CSS stylesheets to match the visualization and layout of the webpage according to the requirements of the challenge. Lastly, I worked on the JS to manipulate the button functions and generate random advices, following the challenge's requirements.
 
 ### Built with
 
