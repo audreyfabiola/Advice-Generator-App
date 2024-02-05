@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [frontendmentor_solution](https://www.frontendmentor.io/solutions/advice-generator-app-0qurvzBOmu)
-- Live Site URL: [live_advicegenerator](https://audreyfabiola.github.io/Advice-Generator-App/)
+- Solution URL: https://www.frontendmentor.io/solutions/advice-generator-app-0qurvzBOmu
+- Live Site URL: https://audreyfabiola.github.io/Advice-Generator-App/
 
 ## My process
 
